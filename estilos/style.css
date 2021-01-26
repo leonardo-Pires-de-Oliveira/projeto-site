@@ -8,7 +8,7 @@ body{
 }
 
 main{
-    background-color: blanchedalmond;
+    background-image: linear-gradient(to right, grey, white)/** blanchedalmond**/;
     width: 500px;
     margin: auto;
     padding: 10px;
