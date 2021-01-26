@@ -29,19 +29,18 @@ h1{
 
 /* Menu horizontal*/
 .menu{
-    width: 100%;
+    display: inline-block;
+    transform: translateX(+50%);
     margin: 0; 
     padding: 0;
     list-style:none;
     border:1px solid #c0c0c0;
-    float:left;
     }
 
 .menu li{
-        
-        position:relative;
-        float:left;
-        border-right:1px solid #c0c0c0;
+    position:relative;
+    float:left;
+    border-right:1px solid #c0c0c0;
     }
 
 .menu li a{
