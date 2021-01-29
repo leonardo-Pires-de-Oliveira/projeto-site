@@ -5,11 +5,11 @@
 
 /* principal */
 body{
-    background-color:#9f9ffd;
+    background-color:#000000;
 }
 
 main{
-    background-image: linear-gradient(to right, grey, white)/** blanchedalmond**/;
+    background-image: linear-gradient(to right, #9f9ffd,  #6464fd)/** blanchedalmond**/;
     width: 1000px;
     margin: auto;
     padding: 10px;
